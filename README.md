@@ -1,16 +1,28 @@
-# todo
+# Flutter Todo App using NStack API
+This is a simple Flutter Todo App that uses the NStack API to manage tasks. The app allows users to create, edit, and delete tasks, as well as mark them as complete or incomplete.
 
-A new Flutter project.
+# Getting Started
+To get started with this app, you'll need to follow these steps:
 
-## Getting Started
+1. Clone the repository to your local machine.
+1. Open the project in your preferred code editor.
+1. Run flutter pub get to install the required packages.
+1. Run the app using flutter run or your preferred method.
+# Features
+This app includes the following features:
 
-This project is a starting point for a Flutter application.
+1. Create new tasks with a title and description.
+1. Edit existing tasks by tapping on them.
+1. View all tasks on the home screen.
+1. Delete task
 
-A few resources to get you started if this is your first Flutter project:
+# Technologies Used
+This app was built using the following technologies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+1. NStack API: A localization and translation platform that provides an easy-to-use API for managing content in multiple languages.
+Credits
+This app was created by Taiwo Ijagbemi.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+This app is open source under the MIT License. Feel free to use it as a base for your own projects or modify it to fit your needs. If you have any questions or feedback, please create an issue or pull request on GitHub.
